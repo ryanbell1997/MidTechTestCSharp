@@ -1,0 +1,6 @@
+@MidTechTestCSharp.Api_HostAddress = http://localhost:5078
+
+GET {{MidTechTestCSharp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
